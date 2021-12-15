@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+ .task{
+    display: flex;
+    font-size: 20px;
+    padding-left: 10px;
+}
+ul li {
+    display: inline-block;
+    font-size: 25px;
+    padding-left: 15px;
+}
+#lists{
+    margin-left: 20px;
+    
+}
